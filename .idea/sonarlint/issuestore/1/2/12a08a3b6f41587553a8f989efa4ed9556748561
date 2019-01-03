@@ -1,0 +1,9 @@
+
+Nsquid:S1135#"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+Nsquid:S1135&"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+[squid:S2147%"DCombine this catch with the one at line 34, which has the same body.(”ı¾
+}squid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(¥úÿÿÿÿÿ
+_squid:UselessImportCheck	";Remove this unused import 'javax.servlet.ServletException'.(Š‰™Œ
+Rsquid:UselessImportCheck"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚw
+?squid:S1148$"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148'"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

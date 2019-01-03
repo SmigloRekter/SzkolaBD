@@ -1,0 +1,21 @@
+
+<squid:S20680" Remove this hard-coded password.(˜¯Òšûÿÿÿÿ
+<squid:S2068?" Remove this hard-coded password.(˜¯Òšûÿÿÿÿ
+<squid:S2068N" Remove this hard-coded password.(˜¯Òšûÿÿÿÿ
+<squid:S2068`" Remove this hard-coded password.(˜¯Òšûÿÿÿÿ
+jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ß€§¾
+jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ö«ò
+jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ò¼Ñž
+jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(³Ùò
+@squid:S1068%")Remove this unused "query" private field.(Ëªé¶
+bsquid:CommentedOutCodeLineE"<This block of commented-out lines of code should be removed.(¿â¦­
+Bsquid:S1481W"+Remove this unused "reader" local variable.(Âá‚ 
+csquid:S00112."FDefine and throw a dedicated exception instead of using a generic one.(Ð‹ò—ùÿÿÿÿ
+^squid:S00112:"FDefine and throw a dedicated exception instead of using a generic one.(‹¨…´
+csquid:S00112K"FDefine and throw a dedicated exception instead of using a generic one.(ˆ¨ÌÒþÿÿÿÿ
+^squid:S00112V"FDefine and throw a dedicated exception instead of using a generic one.(Â”Ù
+Qsquid:S1854W":Remove this useless assignment to local variable "reader".(Âá‚ 
+fsquid:UselessImportCheck"=Remove this unused import 'com.mysql.jdbc.ResultSetMetaData'.(¹…•žùÿÿÿÿ
+Vsquid:UselessImportCheck"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ
+Ssquid:UselessImportCheck	"/Remove this unused import 'java.sql.Statement'.(ÏÖÔø
+_squid:UselessImportCheck";Remove this unused import 'javax.annotation.PostConstruct'.(›ÅÁ
